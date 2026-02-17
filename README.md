@@ -50,6 +50,15 @@ src/
 - Node.js >= 18
 - npm
 
+### Environment Variables
+
+Create a `.env` file in the project root:
+
+```env
+VITE_BASE_URL=vite-base-url
+VITE_SOCKET_URL=vite-socket-url
+```
+
 ### Installation
 
 ```bash
